@@ -1,0 +1,30 @@
+body {
+  background: color #f0f2f5;
+  FONT-FAMILY: Arial, sans-serif;
+  DISPLAY: flex;
+  FLEX-DIRECTION: column;
+  ALIGN-ITEMS: center;
+  JUSTIFY-CONTENT: center;
+  HEIGHT: 100vh;
+  MARGIN: 0;
+}
+SECTION {
+  BACKGROUND-COLOR: WHITE;
+  PADDING: 30px;
+  BORDER-RADIUS: 15px;
+  BOX-SHADOW: 0 4px 10px rgba(0, 0, 0, 0.1);
+  TEXT-ALIGN: center;
+}
+BUTTON {
+  BACKGROUND-COLOR: #4CAF50;
+  COLOR: WHITE;
+  BORDER: NONE;
+  PADDING: 10px 20px;
+  MARGIN: 10px;
+  BORDER-RADIUS: 8px;
+  CURSOR: POINTER;
+  FONT-SIZE: 16px;
+}
+BUTTON:hover {
+  BACKGROUND-COLOR: #45a049;
+}
